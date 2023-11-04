@@ -1,4 +1,4 @@
-# Dynamics-of-Mechanical-Systems
+# Dynamics of Mechanical Systems
 
 ### Content:
 
